@@ -1,2 +1,2 @@
 # ferric
-Doing things with rust
+Fun with rust
